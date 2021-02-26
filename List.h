@@ -7,7 +7,7 @@
 using namespace std;
 
 	struct listNode {
-		Employee& obj;
+		Employee obj;
 		listNode* next;
 	};
 	class list {
